@@ -31,4 +31,3 @@ Este é um aplicativo Android para cadastro e gerenciamento de usuários, desenv
 4. Execute o app em um emulador ou dispositivo físico com Android (API 24 ou superior recomendada).
 
 ---
-Desenvolvido por [Mateus Yano](https://github.com/).
